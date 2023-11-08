@@ -1,5 +1,3 @@
 # PetriNets
-An introduction on Petri nets
-This is an introduction to Petri nets.
-Here, different types of Petri nets are introduced as well as a software platform to be used and where to get the software. 
-Then, there are step by step tutorials on simple types of Petri nets to create simple models. 
+This is the library of models created in the Library in different levels of complexity. These models can be used individually or could be combined together. 
+The models describe basic biological behaviours: movement (chemotaxis), reproduction, death, communication and response in unicellular microorganisms. 
